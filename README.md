@@ -1,1 +1,1 @@
-# mcp_test
+# SPLUNK_TO_YHP
